@@ -1,0 +1,9 @@
+- Git e Github são coisas diferentes mas que podem trabalham juntas
+- Estas ferramentas ajudam no controle de versão
+- Sh1 é um algoritimo de criptografia
+-Alguns comandos do git:
+git init: serve para inicializar
+git add: serve para adicionar os arquivos
+git commit: serve para criar uma versão
+git clone: serve para clonar repositorios 
+git status: serve para verificar se tem alguma modificação ou alguma pendencia.
